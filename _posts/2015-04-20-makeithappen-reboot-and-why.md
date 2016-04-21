@@ -16,17 +16,22 @@ make the world better.
 [] Learn the ES5 Basics - Sources: freecodecamp, udacity
 Learn React for the frontend
 [] with ES5
+[]implement https://www.endomondo.com/  as a React Frontend
+[]Do the 10 react projects with the web pack config of survivejs
+[]Continue the book SurviveJS on page 148
 [] with ES6
 [] webpack
-[] testing and test driven/readme driven development with mocha/chai
-[] CSS/SASS
+[] Learn about testing/TDD/Readme driven development in frontend(react) testing and test driven/readme driven development with mocha/chai
+[] Learn about styling the frontend CSS/SASS
 [] react native for mobile
 Learn NodeJS for the Backend
 [] learn how to use Express.JS - Source LearnCode.academy
 [] learn how to build an API/RESTful Service
 [] Security
-[] Authentication and Authorization - OAuth, JSON WebToken
-[] Microservices
+[] Authentication and Authorization - OAuth, JSON WebToken, PassportJS
+[] Build my own backend for frontends 
+[] Learn about the architecture and tools for Microservices
+[] Learn about Kafka, AMQP, MQTT
 Databases
 []SQL -> Postgres
 []MongoDB
@@ -37,8 +42,11 @@ Caching
 []In Memory
 DevOps
 [] Web Plattform - Bluemix
-[] Server Management - Docker, Ansible
+[] Server Management - Docker, Ansible, UNIX/Ubuntu
 [] Container Management - Docker Swarm, Kubernetes
 [] Workflow/CI - TravisCI/Jenkins, Flightplan(nodejs)
-
-
+Learn about developing micro services in Java (alternative python)
+[]Java Coursera Course
+[]Learn about the netflix architecture
+[]Learn about Bluemix Services and OpenWisk
+[]Learn Analytics like Spark
