@@ -35,7 +35,7 @@ mfn-page-items:
 dsq_thread_id:
   - "3614306008"
 us_header_remove:
-  - "1"
+  - "0"
 us_header_show_onscroll:
   - "0"
 us_titlebar_image_size:
@@ -48,5 +48,7 @@ sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:15:"Default Sidebar";}'
+us_titlebar_content:
+  - hide
 ---
 [vc_row][vc_column][rev_slider_vc alias="slider1"][/vc_column][/vc_row][vc_row][vc_column][us_blog layout="masonry" columns="2" pagination="infinite" items="" show_date="1" show_author="1" show_categories="1" show_tags="1" show_comments="1" show_read_more="1"][/vc_column][/vc_row]
