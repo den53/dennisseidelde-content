@@ -1,53 +1,24 @@
 ---
-ID: 165
+ID: 4467
 post_title: Contact
 author: Dennis
-post_date: 2012-04-01 09:53:02
+post_date: 2016-01-12 12:37:50
 post_excerpt: ""
 layout: page
-permalink: http://dennisseidel.de/pages/contact/
+permalink: http://169.44.121.217/contact/
 published: true
-mfn-page-content:
-  - "1"
-  - "1"
-  - "1"
-  - "1"
-mfn-page-layout:
-  - no-sidebar
-  - no-sidebar
-  - no-sidebar
-  - no-sidebar
-mfn-page-sidebar:
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-mfn-page-items:
-  - >
-    YToxOntpOjA7YToyOntzOjQ6ImF0dHIiO2E6OTp7czo4OiJiZ19pbWFnZSI7czowOiIiO3M6MTE6ImJnX3Bvc2l0aW9uIjtzOjIyOiJuby1yZXBlYXQ7Y2VudGVyIHRvcDs7IjtzOjg6ImJnX2NvbG9yIjtzOjA6IiI7czo2OiJsYXlvdXQiO3M6MTA6Im5vLXNpZGViYXIiO3M6MTE6InBhZGRpbmdfdG9wIjtzOjE6IjAiO3M6MTQ6InBhZGRpbmdfYm90dG9tIjtzOjE6IjAiO3M6NToic3R5bGUiO3M6MDoiIjtzOjU6ImNsYXNzIjtzOjA6IiI7czoxMDoic2VjdGlvbl9pZCI7czowOiIiO31zOjU6Iml0ZW1zIjthOjM6e2k6MDthOjM6e3M6NDoidHlwZSI7czo2OiJjb2x1bW4iO3M6NDoic2l6ZSI7czozOiIxLzMiO3M6NjoiZmllbGRzIjthOjI6e3M6NToidGl0bGUiO3M6MTQ6IkNvbnRhY3QgZm9ybSA3IjtzOjc6ImNvbnRlbnQiO3M6MjM3OiI8aDM+R2V0IGluIHRvdWNoPC9oMz4NCjxociBjbGFzcz0iaHJfbGVmdCI+DQo8cD5BZGQgZm9ybXMgd2l0aCBkaWZmZXJlbnQgZmllbGRzLCBjYXB0Y2hhcywgYnV0dG9ucywgY3JlYXRlIGF3ZXNvbWUgdGV4dHMgd2l0aCBuaWNlIGVsZW1lbnRzIG9yIGp1c3QgYWRkIHNpbXBsZSBib3ggd2l0aCBjb250YWN0IGRldGFpbHMuPC9wPg0KW2NvbnRhY3QtZm9ybS03IGlkPSI5ODk2IiB0aXRsZT0iQ29udGFjdCBGb3JtIl0iO319aToxO2E6Mzp7czo0OiJ0eXBlIjtzOjg6Im91cl90ZWFtIjtzOjQ6InNpemUiO3M6MzoiMS8zIjtzOjY6ImZpZWxkcyI7YTo5OntzOjU6ImltYWdlIjtzOjc3OiJodHRwOi8vbXVmZmluZ3JvdXAuY29tL2Rldjg2MjQvY2FrZS93cC1jb250ZW50L3VwbG9hZHMvMjAxMi8wNC9vdXJfdGVhbV82LmpwZyI7czo1OiJ0aXRsZSI7czoxNjoiRGVubmlzIEEuIFNlaWRlbCI7czo4OiJzdWJ0aXRsZSI7czowOiIiO3M6NToicGhvbmUiO3M6MTU6Iis0OSAxNzEgMTI3NzQ0MCI7czo1OiJlbWFpbCI7czoyMDoibWFpbEBkZW5uaXNzZWlkZWwuZGUiO3M6ODoiZmFjZWJvb2siO3M6MDoiIjtzOjc6InR3aXR0ZXIiO3M6MTY6IkBzbWFydGVyaW5kdXN0cnkiO3M6ODoibGlua2VkaW4iO3M6ODoibGlua2VkaW4iO3M6NToic3R5bGUiO3M6NjoibW9kZXJuIjt9fWk6MjthOjM6e3M6NDoidHlwZSI7czo2OiJjb2x1bW4iO3M6NDoic2l6ZSI7czozOiIxLzMiO3M6NjoiZmllbGRzIjthOjI6e3M6NToidGl0bGUiO3M6MDoiIjtzOjc6ImNvbnRlbnQiO3M6NTkwOiI8aDM+V29ya2luZyBob3VyczwvaDM+DQo8aHIgY2xhc3M9ImhyX2xlZnQiPg0KPHA+RmVhdHVyZSB0aGF0IHNob3dzIHBvc3NpYmlsaXR5IHdoYXQgdGltZSB3ZSB3b3Jrcy4gT2YgY291cnNlIHlvdSBjYW4gY3JlYXRlIHlvdXIgb3duIGJveGVzIGlmIHlvdSBwcmVmZXIuPC9wPg0KPGg2IHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7Ij5Nb25kYXkgLSBGcmlkYXk8L2g2Pg0KPHAgc3R5bGU9Im9wYWNpdHk6IDAuNjsgZmlsdGVyOiBhbHBoYShvcGFjaXR5PTYwKTsiPjxpIGNsYXNzPSJpY29uLWNsb2NrIj48L2k+IDggYW0gdG8gNCBwbTwvcD4NCjxoNiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyI+U2F0dXJkYXk8L2g2Pg0KPHAgc3R5bGU9Im9wYWNpdHk6IDAuNjsgZmlsdGVyOiBhbHBoYShvcGFjaXR5PTYwKTsiPjxpIGNsYXNzPSJpY29uLWNsb2NrIj48L2k+IDEwIGFtIHRvIDQgcG08L3A+DQo8aDYgc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsiPlN1bmRheTwvaDY+DQo8cCBzdHlsZT0ib3BhY2l0eTogMC42OyBmaWx0ZXI6IGFscGhhKG9wYWNpdHk9NjApOyI+PGkgY2xhc3M9Imljb24tY2xvY2siPjwvaT4gQ2xvc2VkPC9wPiI7fX19fX0=
-  - >
-    YToxOntpOjA7YToyOntzOjQ6ImF0dHIiO2E6OTp7czo4OiJiZ19pbWFnZSI7czowOiIiO3M6MTE6ImJnX3Bvc2l0aW9uIjtzOjIyOiJuby1yZXBlYXQ7Y2VudGVyIHRvcDs7IjtzOjg6ImJnX2NvbG9yIjtzOjA6IiI7czo2OiJsYXlvdXQiO3M6MTA6Im5vLXNpZGViYXIiO3M6MTE6InBhZGRpbmdfdG9wIjtzOjE6IjAiO3M6MTQ6InBhZGRpbmdfYm90dG9tIjtzOjE6IjAiO3M6NToic3R5bGUiO3M6MDoiIjtzOjU6ImNsYXNzIjtzOjA6IiI7czoxMDoic2VjdGlvbl9pZCI7czowOiIiO31zOjU6Iml0ZW1zIjthOjM6e2k6MDthOjM6e3M6NDoidHlwZSI7czo2OiJjb2x1bW4iO3M6NDoic2l6ZSI7czozOiIxLzMiO3M6NjoiZmllbGRzIjthOjI6e3M6NToidGl0bGUiO3M6MTQ6IkNvbnRhY3QgZm9ybSA3IjtzOjc6ImNvbnRlbnQiO3M6MjM3OiI8aDM+R2V0IGluIHRvdWNoPC9oMz4NCjxociBjbGFzcz0iaHJfbGVmdCI+DQo8cD5BZGQgZm9ybXMgd2l0aCBkaWZmZXJlbnQgZmllbGRzLCBjYXB0Y2hhcywgYnV0dG9ucywgY3JlYXRlIGF3ZXNvbWUgdGV4dHMgd2l0aCBuaWNlIGVsZW1lbnRzIG9yIGp1c3QgYWRkIHNpbXBsZSBib3ggd2l0aCBjb250YWN0IGRldGFpbHMuPC9wPg0KW2NvbnRhY3QtZm9ybS03IGlkPSI5ODk2IiB0aXRsZT0iQ29udGFjdCBGb3JtIl0iO319aToxO2E6Mzp7czo0OiJ0eXBlIjtzOjg6Im91cl90ZWFtIjtzOjQ6InNpemUiO3M6MzoiMS8zIjtzOjY6ImZpZWxkcyI7YTo5OntzOjU6ImltYWdlIjtzOjc3OiJodHRwOi8vbXVmZmluZ3JvdXAuY29tL2Rldjg2MjQvY2FrZS93cC1jb250ZW50L3VwbG9hZHMvMjAxMi8wNC9vdXJfdGVhbV82LmpwZyI7czo1OiJ0aXRsZSI7czoxNjoiRGVubmlzIEEuIFNlaWRlbCI7czo4OiJzdWJ0aXRsZSI7czowOiIiO3M6NToicGhvbmUiO3M6MTU6Iis0OSAxNzEgMTI3NzQ0MCI7czo1OiJlbWFpbCI7czoyMDoibWFpbEBkZW5uaXNzZWlkZWwuZGUiO3M6ODoiZmFjZWJvb2siO3M6MDoiIjtzOjc6InR3aXR0ZXIiO3M6MTY6IkBzbWFydGVyaW5kdXN0cnkiO3M6ODoibGlua2VkaW4iO3M6ODoibGlua2VkaW4iO3M6NToic3R5bGUiO3M6NjoibW9kZXJuIjt9fWk6MjthOjM6e3M6NDoidHlwZSI7czo2OiJjb2x1bW4iO3M6NDoic2l6ZSI7czozOiIxLzMiO3M6NjoiZmllbGRzIjthOjI6e3M6NToidGl0bGUiO3M6MDoiIjtzOjc6ImNvbnRlbnQiO3M6NTkwOiI8aDM+V29ya2luZyBob3VyczwvaDM+DQo8aHIgY2xhc3M9ImhyX2xlZnQiPg0KPHA+RmVhdHVyZSB0aGF0IHNob3dzIHBvc3NpYmlsaXR5IHdoYXQgdGltZSB3ZSB3b3Jrcy4gT2YgY291cnNlIHlvdSBjYW4gY3JlYXRlIHlvdXIgb3duIGJveGVzIGlmIHlvdSBwcmVmZXIuPC9wPg0KPGg2IHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7Ij5Nb25kYXkgLSBGcmlkYXk8L2g2Pg0KPHAgc3R5bGU9Im9wYWNpdHk6IDAuNjsgZmlsdGVyOiBhbHBoYShvcGFjaXR5PTYwKTsiPjxpIGNsYXNzPSJpY29uLWNsb2NrIj48L2k+IDggYW0gdG8gNCBwbTwvcD4NCjxoNiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyI+U2F0dXJkYXk8L2g2Pg0KPHAgc3R5bGU9Im9wYWNpdHk6IDAuNjsgZmlsdGVyOiBhbHBoYShvcGFjaXR5PTYwKTsiPjxpIGNsYXNzPSJpY29uLWNsb2NrIj48L2k+IDEwIGFtIHRvIDQgcG08L3A+DQo8aDYgc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsiPlN1bmRheTwvaDY+DQo8cCBzdHlsZT0ib3BhY2l0eTogMC42OyBmaWx0ZXI6IGFscGhhKG9wYWNpdHk9NjApOyI+PGkgY2xhc3M9Imljb24tY2xvY2siPjwvaT4gQ2xvc2VkPC9wPiI7fX19fX0=
-mfn-post-content:
-  - "0"
-  - "0"
-mfn-post-layout:
-  - no-sidebar
-  - no-sidebar
-mfn-post-sidebar:
-  - "0"
-  - "0"
-mfn-post-slider:
-  - "0"
-  - "0"
-mfn-post-overlay:
-  - "1"
-  - "1"
-mfn-post-recent-work:
-  - "0"
-  - "0"
-mfn-post-hide-content:
-  - "1"
-  - "1"
-slide_template:
-  - default
 ---
+[vc_row][vc_column][vc_column_text]
+<h4>Social Links</h4>
+[/vc_column_text][us_social_links size="24px" style="colored" facebook="#" twitter="#" google="#" vimeo="#" instagram="#" behance="#" xing="#" vk="#" soundcloud="#" houzz="#"][us_separator type="invisible" size="large"][vc_column_text]
+<h4>About Blog</h4>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.
+<ul>
+	<li>But I must explain to you how all this</li>
+	<li>Mistaken idea of denouncing</li>
+	<li>Pleasure and praising pain was</li>
+	<li>Born and I will give you a complete account</li>
+</ul>
+[/vc_column_text][us_separator type="invisible" size="large"][vc_row_inner][vc_column_inner width="1/3"][us_iconbox icon="fa-envelope" title="info@test.com" link="url:mailto%3Ainfo%40test.com||"][/us_iconbox][/vc_column_inner][vc_column_inner width="1/3"][us_iconbox icon=" fa-location-arrow" title="77 Massachusetts Ave, Cambridge"][/us_iconbox][/vc_column_inner][vc_column_inner width="1/3"][us_iconbox icon="fa-phone" title="+321 123 4567"][/us_iconbox][/vc_column_inner][/vc_row_inner][us_separator type="invisible" size="large"][vc_column_text]
+<h4>Send Us a Message</h4>
+[/vc_column_text][us_cform phone_field="hidden"][/vc_column][/vc_row]
